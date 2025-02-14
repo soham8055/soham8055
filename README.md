@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soham8055
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently persuing computer engineering
+- 🌱 I’m computer engineering
 - 📫 add me on: Linkdin-Soham Patkar 
 
 <!---
